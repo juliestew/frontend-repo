@@ -1,0 +1,107 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "SF Pro", sans-serif;
+  margin: 0;
+}
+nav{
+  background-color: #E8782C;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 3%;
+  height: 75px;
+
+}
+h1{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+}
+h2{
+  font-size: 17px;
+  font-weight: 550;
+  display: inline-block;
+  text-align: center;
+  margin: 15px 0px 15px 60px;
+
+}
+.navbar p {
+  float: left;
+  text-decoration: none;
+  display: inline-block;
+
+}
+ul{
+  list-style: none;
+}
+section li {
+  display: inline-block;
+  border-bottom: 1px;
+}
+.route-number{
+  font-weight: bold;
+  font-size: 20px;
+  width: 50px;
+}
+
+.destination{
+  font-size: 17px;
+  padding-left: 10px;
+  width: 200px;
+}
+
+.time{
+  font-size: 14px;
+  font-weight: 600;
+  float: right;
+  padding-right: 17px;
+}
+
+.box2{
+  background-color: #F8F8F8;
+  padding: 0px;
+    position: fixed;
+    bottom:0%;
+    width:100%;
+    opacity: .95;
+    text-align: justify;
+}
+
+  .container {
+  margin: 0 auto;
+  width: 100%;
+}
+
+i{
+  color: #A1A1A1;
+  font-size: 25px;
+  padding-left:5%;
+  padding-right: 5%;
+  text-align: center;
+}
+.fa-chevron-left, .navbar p, h2 {
+  color: #FFFFFF;
+  display: inline-block;
+  float: left;
+}
+.fa-chevron-left {
+padding: 0;
+margin-top: 10px;
+margin-right: 3px;
+float: left;
+display: inline-block;
+
+}
+.fas ul, .far ul {
+  text-align: justify;
+}
+nav::after {
+  content: '';
+  display: table;
+  clear: both;
+}
