@@ -5,6 +5,7 @@
 body{
   font-family: "SF Pro", sans-serif;
   margin: 0;
+  margin-bottom: 80px;
 }
 nav{
   background-color: #E8782C;
@@ -60,6 +61,12 @@ section li {
   font-weight: 600;
   float: right;
   padding-right: 17px;
+  width: 100px;
+}
+.alert{
+  color: #FF2D55;
+  margin-top: 15px;
+  padding-bottom: 10px;
 }
 
 .box2{
@@ -84,6 +91,12 @@ i{
   padding-right: 5%;
   text-align: center;
 }
+.fa-chevron-right{
+  float: right;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .fa-chevron-left, .navbar p, h2 {
   color: #FFFFFF;
   display: inline-block;
