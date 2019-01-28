@@ -11,11 +11,8 @@ nav{
   color: #FFFFFF;
   margin: 0;
   padding: 3%;
-<<<<<<< HEAD
   height: 75px;
 
-=======
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 }
 h1{
   font-size: 20px;
@@ -27,41 +24,28 @@ h1{
 }
 h2{
   font-size: 17px;
-<<<<<<< HEAD
   font-weight: 550;
   display: inline-block;
   text-align: center;
   margin: 15px 0px 15px 60px;
-=======
-  font-weight: 540;
-  display: inline-block;
-  text-align: center;
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 
 }
 .navbar p {
   float: left;
   text-decoration: none;
   display: inline-block;
-<<<<<<< HEAD
 
-=======
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 }
 ul{
   list-style: none;
 }
 section li {
   display: inline-block;
-<<<<<<< HEAD
   border-bottom: 1px;
-=======
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 }
 .route-number{
   font-weight: bold;
   font-size: 20px;
-<<<<<<< HEAD
   width: 50px;
 }
 
@@ -71,23 +55,13 @@ section li {
   width: 200px;
 }
 
-=======
-}
-.destination{
-  font-size: 17px;
-  padding-left: 20px;
-}
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 .time{
   font-size: 14px;
   font-weight: 600;
   float: right;
   padding-right: 17px;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 .box2{
   background-color: #F8F8F8;
   padding: 0px;
@@ -98,13 +72,10 @@ section li {
     text-align: justify;
 }
 
-<<<<<<< HEAD
   .container {
   margin: 0 auto;
   width: 100%;
 }
-=======
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 
 i{
   color: #A1A1A1;
@@ -120,11 +91,8 @@ i{
 }
 .fa-chevron-left {
 padding: 0;
-<<<<<<< HEAD
 margin-top: 10px;
 margin-right: 3px;
-=======
->>>>>>> 489de1c0a208b53e90336b60be38e03b6579afb5
 float: left;
 display: inline-block;
 
