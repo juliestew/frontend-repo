@@ -39,6 +39,11 @@ h2{
   display: inline-block;
   padding-top: 15px;
 
+
+}
+
+.navbar{
+  margin-top: -3px;
 }
 ul{
   list-style: none;
@@ -76,7 +81,7 @@ section li {
 
 .box2{
   background-color: #F8F8F8;
-  padding: 0px;
+  padding: 15px;
     position: fixed;
     bottom:0%;
     width:100%;
