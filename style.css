@@ -6,6 +6,7 @@ body{
   font-family: "SF Pro", sans-serif;
   margin: 0;
   margin-bottom: 80px;
+
 }
 nav{
   background-color: #E8782C;
@@ -13,6 +14,7 @@ nav{
   margin: 0;
   padding: 3%;
   height: 75px;
+
 
 }
 h1{
@@ -35,6 +37,7 @@ h2{
   float: left;
   text-decoration: none;
   display: inline-block;
+  padding-top: 15px;
 
 }
 ul{
@@ -48,12 +51,14 @@ section li {
   font-weight: bold;
   font-size: 20px;
   width: 50px;
+  margin-left: 15px;
 }
 
 .destination{
   font-size: 17px;
-  padding-left: 10px;
+  padding: 5px 5px 5px 10px;
   width: 200px;
+
 }
 
 .time{
@@ -75,8 +80,10 @@ section li {
     position: fixed;
     bottom:0%;
     width:100%;
+    height: 55px;
     opacity: .95;
     text-align: justify;
+    text-align: center;
 }
 
   .container {
@@ -96,7 +103,15 @@ i{
   display: inline-block;
   font-size: 16px;
 }
-
+img{
+  background-color: #E8782C;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  border-bottom-color: #E8782C;
+  border-bottom-width: thick;
+}
 .fa-chevron-left, .navbar p, h2 {
   color: #FFFFFF;
   display: inline-block;
@@ -112,6 +127,8 @@ display: inline-block;
 }
 .fas ul, .far ul {
   text-align: justify;
+  text-align: center;
+
 }
 nav::after {
   content: '';
